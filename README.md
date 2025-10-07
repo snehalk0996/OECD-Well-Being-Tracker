@@ -1,3 +1,6 @@
+<img width="1341" height="440" alt="Screenshot 2025-10-06 004217" src="https://github.com/user-attachments/assets/8fd30749-ea6d-4da0-8338-025d500bca36" />
+
+
 # OECD-Well-Being-Tracker
 The OECD Global Well-being Tracker is a dynamic, multi-panel data application designed to provide users with a comprehensive, interactive view of well-being across OECD countries from 2004 to 2024. Built with Plotly Studio, this app empowers users to explore, compare, and analyze key indicators across eleven core domains of well-being.
 
@@ -29,3 +32,7 @@ Our vision for the next phase focuses on deeper demographic analysis and integra
 ## Built With
 
 plotlyStudio
+
+## Try it here:
+
+https://lnkd.in/dqQ7TDbX
